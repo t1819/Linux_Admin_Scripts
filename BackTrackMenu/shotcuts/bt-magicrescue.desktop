@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"magicrescue;echo;echo Find recipes, tools  and additional info in /usr/share/magicrescue;echo;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Magicrescue
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+Categories=BT-Forensics-Filecarving

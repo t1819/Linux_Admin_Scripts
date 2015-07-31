@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"bmsf.sh\";bash"
+GenericName=
+Icon=cache
+Name=Burpsuite Msf
+Path=/pentest/web/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Web;BT-Web-Application

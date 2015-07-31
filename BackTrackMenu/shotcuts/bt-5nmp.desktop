@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"cd /pentest/scanners/5nmp/ ; mono -v 5nmp.exe\";bash"
+GenericName=
+Icon=/pentest/scanners/5nmp/dragon.ico
+Name=5nmp
+Path=/pentest/scanners/5nmp/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Icon=/pentest/scanners/5nmp/dragon.ico
+Categories=BT-Network-Mapping-Fingerprinting;BT-Network-Mapping-Identify
+

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"start-tftpd\";bash"
+GenericName=
+Icon=package_games_arcade
+Name=Start TFTPD
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-TFTPD
+

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=BT-PasswordOnlineAttacks
+Comment=
+Comment[en_US]=
+Exec=xterm -e "sh -c \"./RWW-Attack-0.9.2.py ;sudo -s\";bash"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=RWW-Attack
+Path=/pentest/passwords/rww-attack/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

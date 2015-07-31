@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Penetration
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "./set; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Social Engineering Toolkit
+Name[en_US]=Social Engineering Toolkit
+Path[$e]=/pentest/exploits/SET/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

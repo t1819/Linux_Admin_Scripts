@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"python /pentest/enumeration/google/goog-mail/goog-mail.py;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Googmail
+Path=/pentest/enumeration/google/goog-mail/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Information-Gathering-Searchengine

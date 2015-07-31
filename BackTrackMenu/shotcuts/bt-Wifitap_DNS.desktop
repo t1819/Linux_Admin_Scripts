@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Radio-Network-Analysis-80211-Spoofing
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "python ./wifidns.py; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Wifitap-DNS
+Name[en_US]=Wifitap-DNS
+Path[$e]=/pentest/wireless/wifitap
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

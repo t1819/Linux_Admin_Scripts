@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./unique.py -R RFIDIOt.rfidiot.READER_FROSCH -l /dev/ttyUSB0 -s 9600;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=READ WRITE CLONE Unique (EM4x02)
+Path=/pentest/rfid/RFIDIOt
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-RFID-Frosch

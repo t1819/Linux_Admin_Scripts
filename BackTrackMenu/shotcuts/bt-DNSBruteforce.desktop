@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-PasswordOnlineAttacks
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "python ./DNSBruteforce.py; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=DNSBruteforce
+Name[en_US]=DNSBruteforce
+Path[$e]=/pentest/passwords/dns-bruteforce/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"ruby /pentest/enumeration/goorecon/goorecon.rb;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Goorecon
+Path=/pentest/enumeration/goorecon
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Information-Gathering-Searchengine

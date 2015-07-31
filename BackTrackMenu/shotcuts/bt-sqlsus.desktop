@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./sqlsus -h;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Sqlsus
+Path=/pentest/database/sqlsus/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Database-MYSQL;BT-Web-Application

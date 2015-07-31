@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-RFID-ACG
+Comment=
+Comment[en_US]=
+Exec[$e]=./formatmifare1kvalue.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;sudo -s
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Format MIFARE 1k Value Blocks
+Name[en_US]=Format MIFARE 1k Value Blocks
+Path[$e]=/pentest/rfid/RFIDIOt
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

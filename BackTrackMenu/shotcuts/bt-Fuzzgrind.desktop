@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"cd /pentest/fuzzers/fuzzgrind/;python fuzz/fuzz.py;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Fuzzgrind
+Path=/pentest/fuzzers/fuzzgrind/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Fuzzers

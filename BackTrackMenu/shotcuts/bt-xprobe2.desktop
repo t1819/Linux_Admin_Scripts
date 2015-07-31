@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"xprobe2;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=XProbe2
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Network-Mapping-Fingerprinting

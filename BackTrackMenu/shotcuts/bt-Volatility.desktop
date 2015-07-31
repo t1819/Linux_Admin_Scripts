@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"python volatility; sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Volatility
+Path=/pentest/forensics/volatility/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Forensics-Analysis

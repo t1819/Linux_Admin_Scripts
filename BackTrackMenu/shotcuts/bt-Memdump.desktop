@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Forensics-Analysis
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "memdump -h; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Memdump
+Name[en_US]=Memdump
+Path[$e]=/usr/local/sbin
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"hping2 -h 2>&1 | head -n 20;echo;echo More help is available use hping -h to see all parameters;echo ;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Hping2
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Network-Mapping-Identify

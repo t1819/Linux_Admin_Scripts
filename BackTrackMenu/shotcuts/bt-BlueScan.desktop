@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"echo '\n\t\tmake sure your bluetooth device is up before execute bluescan\n\n' && ls -l;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=BlueScan
+Path=/pentest/bluetooth/bluescan
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Radio-Network-Analysis-BT

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=xterm -e "sh -c \" obexftp --help | head -n 20; echo 'Output is truncated. Use obexftp --help to see the full list of options'; echo ;sudo -s\";bash"
+Icon=cache
+Name=ObexFTP
+StartupNotify=true
+Terminal=0
+Type=Application
+X-KDE-SubstituteUID=false
+Categories=BT-Radio-Network-Analysis-BT

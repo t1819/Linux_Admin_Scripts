@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Radio-Network-Analysis-BT
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "python ./bluemaho.py; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=BlueMaho
+Name[en_US]=BlueMaho
+Path[$e]=/pentest/bluetooth/bluemaho/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

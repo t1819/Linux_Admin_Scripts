@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"cd /pentest/fuzzers/bf2/;perl bf2.pl;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Bf2
+Path=/pentest/fuzzers/bf2/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Fuzzers

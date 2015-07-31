@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./rfcomm_scan;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=BTAudit rfcomm
+Path=/pentest/bluetooth/bt_audit/src
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Radio-Network-Analysis-BT

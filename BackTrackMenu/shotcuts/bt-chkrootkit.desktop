@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"chkrootkit --help;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Chkrootkit
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Forensics-Aquiring

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Radio-Network-Analysis-80211-Cracking
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "gencases; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Gencases
+Name[en_US]=Gencases
+Path[$e]=/usr/local/bin
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

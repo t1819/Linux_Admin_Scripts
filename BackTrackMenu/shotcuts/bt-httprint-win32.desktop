@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"wine /pentest/enumeration/www/httprint/win32/httprint_gui.exe\";bash"
+GenericName=
+Icon=cache
+Name=Httprint_GUI
+Path=/pentest/enumeration/www/httprint/win32/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Web;BT-Network-Mapping-Service-Fingerprinting

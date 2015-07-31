@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./ucsniff -h;sudo -s \";bash"
+GenericName=
+Icon=cache
+Name=UCSniff
+Path=/pentest/voip/ucsniff/src/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Voip-And-Telephony-VOIP-Signalling

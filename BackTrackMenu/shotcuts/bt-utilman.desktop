@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"python utilman.py;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Utilman
+Path=/pentest/misc/utilman
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Misc

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./icommander --help;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Icommander
+Path=/pentest/misc/icommander
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Misc

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Penetration-Inguma
+Comment=
+Comment[en_US]=
+Exec=xterm -e "sh -c \"python ingumagui.py\";bash"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Ingumagui
+Name[en_US]=Ingumagui
+Path=/pentest/exploits/inguma/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=

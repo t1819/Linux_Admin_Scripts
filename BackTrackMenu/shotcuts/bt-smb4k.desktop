@@ -1,0 +1,11 @@
+# KDE Config File
+[Desktop Entry]
+Encoding=UTF-8
+Name=Smb4K
+GenericName=
+Comment=Share Browser
+Exec=xterm -e "sh -c \"smb4k\" ;bash"
+Icon=cache
+Type=Application
+Terminal=0
+Categories=Utilities;BT-Vulnerability-Identification-SMB

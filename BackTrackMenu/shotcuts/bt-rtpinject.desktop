@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"ls -al;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=RTPInject
+Path=/pentest/voip/rtpinject
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Voip-And-Telephony-VOIP-Signalling

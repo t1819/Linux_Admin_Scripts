@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"python WSFuzzer.py;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=WSFuzzer
+Path=/pentest/fuzzers/wsfuzzer/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Fuzzers;BT-Web-Application

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"ls -l; sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=UDF
+Path=/pentest/database/UDF/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Database-MYSQL

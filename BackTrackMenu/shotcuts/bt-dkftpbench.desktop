@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"dkftpbench; sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Dkftpbench
+Path=$HOME
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Misc;BT-Vulnerability-Identification-Fuzzers

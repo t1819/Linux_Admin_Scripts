@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Vulnerability-Identification-Web
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "./hcraft; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=HCraft
+Name[en_US]=HCraft
+Path[$e]=/pentest/web/hcraft/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

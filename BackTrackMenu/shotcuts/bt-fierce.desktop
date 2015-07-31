@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"/pentest/enumeration/fierce/fierce.pl -h;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Fierce
+Path=/pentest/enumeration/fierce
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Information-Gathering-DNS
+

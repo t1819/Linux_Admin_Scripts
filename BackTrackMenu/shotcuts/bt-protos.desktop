@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"protos -h;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Protos
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Information-Gathering-Route;BT-Network-Mapping-Fingerprinting

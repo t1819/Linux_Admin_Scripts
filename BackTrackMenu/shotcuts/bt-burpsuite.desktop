@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"cd /pentest/web/burpsuite;java -jar burpsuite_v1.3.jar\";bash"
+GenericName=
+Icon=cache
+Name=Burpsuite
+Path=/pentest/web/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Web;BT-Web-Application

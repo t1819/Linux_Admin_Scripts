@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"pw-inspector;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Pw-inspector
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-PasswordOfflineAttacks

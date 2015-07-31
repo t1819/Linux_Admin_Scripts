@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"cd /pentest/fuzzers/bed/;perl bed.pl;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Bed
+Path=/pentest/fuzzers/bed/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Fuzzers

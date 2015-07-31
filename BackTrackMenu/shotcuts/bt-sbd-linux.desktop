@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Tunneling
+Comment=
+Comment[en_US]=
+Exec=xterm -e "sh -c \"sbd -h;sudo -s\";bash"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Sbd
+Name[en_US]=Sbd
+Path=/usr/local/bin
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"dnstracer;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=DNSTracer
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Information-Gathering-DNS
+

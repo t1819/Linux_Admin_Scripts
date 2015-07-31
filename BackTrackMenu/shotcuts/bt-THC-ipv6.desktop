@@ -1,0 +1,15 @@
+[Desktop Entry]
+Categories=BT-Spoofing
+Comment=
+Exec=xterm -e "sh -c \"cd /pentest/spoofing/thc-ipv6; echo 'THC-IPv6 tools:'; find . -perm /u=x,g=x,o=x; sudo -s\";bash"
+GenericName=
+Icon=cache
+MimeType=
+Name=THC-IPv6
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"echo 'WARNING: Snort requires MySQL...' && echo '' && /etc/init.d/mysql start && /etc/init.d/snort start && snort-interface.sh && read\";bash"
+GenericName=
+Icon=package_games_arcade
+Name=Start SNORT
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-SNORT

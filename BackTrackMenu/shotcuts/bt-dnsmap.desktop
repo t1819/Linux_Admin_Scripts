@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Information-Gathering-DNS
+Comment=
+Comment[en_US]=
+Exec=xterm -e "sh -c \"/pentest/enumeration/dns/dnsmap/dnsmap ;sudo -s\";bash"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=dnsmap
+Name[en_US]=Dnsmap
+Path=/pentest/enumeration/dns/dnsmap
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

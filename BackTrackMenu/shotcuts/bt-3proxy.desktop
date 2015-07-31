@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"ls -l;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=3proxy
+Path=/pentest/tunneling/3proxy/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Tunneling

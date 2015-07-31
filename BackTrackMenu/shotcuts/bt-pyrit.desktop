@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"pyrit;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Pyrit
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-PasswordOfflineAttacks;BT-Radio-Network-Analysis-80211-Cracking
+

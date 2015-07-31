@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./metagoofil.py;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Metagoofil
+Path=/pentest/enumeration/google/metagoofil
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Information-Gathering-Searchengine;BT-Information-Gathering-Archive

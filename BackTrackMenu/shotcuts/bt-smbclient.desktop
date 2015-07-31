@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=BT-Vulnerability-Identification-SMB
+Comment=
+Exec=xterm -e "sh -c \"echo;echo SMB-Client, use 'help' to get some assistance;echo;echo;smbclient;sudo -s\";bash"
+GenericName=
+Icon=cache
+MimeType=
+Name=SMBclient
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

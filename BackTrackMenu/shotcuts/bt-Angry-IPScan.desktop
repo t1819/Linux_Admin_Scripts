@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"/usr/bin/ipscan;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Angry IPScan
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Network-Mapping-Identify;BT-Network-Mapping-Portscanning

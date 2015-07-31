@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"echo '\n\t\tplease see the README and the source before execute braces.pl\n\n' && ls -l;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Braces
+Path=/pentest/bluetooth/blackhat/braces/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Radio-Network-Analysis-BT

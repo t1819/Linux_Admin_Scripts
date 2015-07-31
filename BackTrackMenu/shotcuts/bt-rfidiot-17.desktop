@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./q5reset.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600 CONTROL ID;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Reset Q5 TAG
+Path=/pentest/rfid/RFIDIOt
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-RFID-ACG

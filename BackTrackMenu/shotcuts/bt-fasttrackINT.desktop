@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \" python fast-track.py -i; sudo -s \";bash"
+GenericName=
+Icon=cache
+Name=Fast-Track Interactive
+Path=/pentest/exploits/fasttrack/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Penetration-Fasttrack

@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Forensics-Analysis
+Comment=
+Comment[en_US]=
+Exec[$e]=sh -c "./trid -?; sudo -s"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=TrID
+Name[en_US]=TrID
+Path[$e]=/usr/local/trid/bin/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

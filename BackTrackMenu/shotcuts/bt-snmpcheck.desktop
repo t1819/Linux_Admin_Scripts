@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Vulnerability-Identification-SNMP
+Comment=
+Comment[en_US]=
+Exec=xterm -e "sh -c \"perl snmpcheck.pl;sudo -s\";bash"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=SNMPcheck
+Name[en_US]=SNMPcheck
+Path=/pentest/enumeration/snmpcheck
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

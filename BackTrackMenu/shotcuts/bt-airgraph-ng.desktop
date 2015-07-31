@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"python airgraph-ng.py;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Airgraph-ng
+Path=/pentest/wireless/airgraph-ng/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Radio-Network-Analysis-80211-Misc

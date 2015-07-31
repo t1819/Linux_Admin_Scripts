@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"wine smbrelay3.exe;sudo -s \";bash"
+GenericName=
+Icon=cache
+Name=SMBRelay3
+Path=/pentest/sniffers/smbrelay3
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Sniffers

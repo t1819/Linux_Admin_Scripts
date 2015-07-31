@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=BT-Voip-And-Telephony-VOIP-Signalling
+Comment=
+Comment[en_US]=
+Exec=xterm -e "sh -c \"./erase_registrations;sudo -s\";bash"
+GenericName=
+GenericName[en_US]=
+Icon=cache
+MimeType=
+Name=Erase_Registrations
+Name[en_US]=Erase_Registrations
+Path=/pentest/voip/erase_registrations
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-DCOP-ServiceType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=

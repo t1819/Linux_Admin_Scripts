@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"echo;echo;echo You can use the help command to get the list of commands;echo;echo;python inguma.py 2>/dev/null\";bash"
+GenericName=
+Icon=cache
+Name=Inguma
+Path=/pentest/exploits/inguma/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Penetration-Inguma

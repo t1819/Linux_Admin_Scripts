@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"perl snmpenum.pl;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Snmp Enum
+Path=/pentest/enumeration/snmpenum/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-SNMP

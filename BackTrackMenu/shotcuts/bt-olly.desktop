@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"wine OLLYDBG.EXE\" ;bash"
+GenericName=
+Icon=cache
+Name=OllyDBG
+Path=/pentest/re/OllyDBG/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Reverse-Engineering

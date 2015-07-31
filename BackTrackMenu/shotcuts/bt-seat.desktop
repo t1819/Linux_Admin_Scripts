@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"perl /pentest/enumeration/seat/seat\";bash"
+GenericName=
+Icon=cache
+Name=SEAT
+Path=/pentest/enumeration/seat
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Information-Gathering-Searchengine;BT-Information-Gathering-Archive
+

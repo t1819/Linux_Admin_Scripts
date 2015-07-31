@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"echo;java -jar c07-sip-r2.jar -help;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Protos-Sip
+Path=/pentest/voip/protos-sip/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Voip-And-Telephony-VOIP-Signalling
+

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"/pentest/database/metacoretex/mctx.sh\";bash"
+GenericName=
+Icon=cache
+Name=Metacoretex
+Path=/pentest/database/metacoretex/
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Database-MSSQL;BT-Vulnerability-Identification-Database-MYSQL;BT-Vulnerability-Identification-Database-Oracle

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"./readtag.py -R RFIDIOt.rfidiot.READER_PCSC;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Read TAG
+Path=/pentest/rfid/RFIDIOt
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-RFID-PCSC

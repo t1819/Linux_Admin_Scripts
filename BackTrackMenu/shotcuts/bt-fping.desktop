@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"fping -h 2>&1 | head -n 20;echo;echo More help is available use fping -h to see all parameters;echo ;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Fping
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Network-Mapping-Identify

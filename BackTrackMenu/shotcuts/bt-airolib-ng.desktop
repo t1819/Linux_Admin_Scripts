@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"airolib-ng;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Airolib-ng
+Path=
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Radio-Network-Analysis-80211-Spoofing;BT-Radio-Network-Analysis-80211-Cracking

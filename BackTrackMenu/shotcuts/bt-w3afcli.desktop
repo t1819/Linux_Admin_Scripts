@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"/pentest/web/w3af/w3af_console;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=W3AF (Console)
+Path=/pentest/web/w3af
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Web;BT-Web-Application

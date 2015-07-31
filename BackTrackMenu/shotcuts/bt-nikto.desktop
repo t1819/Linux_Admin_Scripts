@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=xterm -e "sh -c \"perl nikto.pl -h;sudo -s\";bash"
+GenericName=
+Icon=cache
+Name=Nikto2
+Path=/pentest/scanners/nikto
+StartupNotify=true
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=BT-Vulnerability-Identification-Web;BT-Web-Application
