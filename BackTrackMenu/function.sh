@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Please file bugs at github!
+# https://github.com/t1819/scripting
+
 errorType(){
 	while [ "$#" -ne "0" ]
 	do

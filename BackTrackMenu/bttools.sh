@@ -1,4 +1,8 @@
 #!/bin/bash  
+
+# Please file bugs at github!
+# https://github.com/t1819/scripting
+
 if [ ! -x function.sh ]
  then
  	echo -e "\e[00;31mError:\e[00m function file is not found... please insert function file ..." 

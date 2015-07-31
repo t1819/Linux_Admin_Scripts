@@ -1,6 +1,8 @@
 #!/bin/bash
 
 #Server status check using ping command
+# Please file bugs at github!
+# https://github.com/t1819/scripting
 
 HOSTS=(
 "Server 1 IP"

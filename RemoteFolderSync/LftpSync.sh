@@ -1,5 +1,8 @@
 #!/bin/bash    
 
+# Please file bugs at github!
+# https://github.com/t1819/scripting
+
 HOST="ServerIP"
 USER="username"
 PASS="password"
