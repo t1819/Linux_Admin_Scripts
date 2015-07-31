@@ -1,2 +1,2 @@
 # scripting
-Listing all the useful sysadmin scripts.
+Listing of all the useful sysadmin scripts.
