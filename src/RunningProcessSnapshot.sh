@@ -1,10 +1,8 @@
 #!/bin/bash 
 
-# Requirement: 
-#	nagios configured.
-# Top server consuming process send to the administrator at the time of server load.
-# Please file bugs at github!
-# https://github.com/t1819/scripting
+#######################################################
+# Last Modified: Thursday, 4th June 2020 9:01:11 pm   #
+#######################################################
 
 ServerIP="IP"
 email="Email Address"

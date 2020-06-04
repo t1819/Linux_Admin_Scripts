@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#Server status check using ping command
-# Please file bugs at github!
-# https://github.com/t1819/scripting
+#######################################################
+# Last Modified: Thursday, 4th June 2020 9:05:45 pm   #
+#######################################################
 
 HOSTS=(
 "Server 1 IP"
